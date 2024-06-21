@@ -1,0 +1,12 @@
+C:\Users\abbascb\source\repos\ShopConsole\ShopConsole.Core\bin\Debug\net6.0\ShopConsole.Core.deps.json
+C:\Users\abbascb\source\repos\ShopConsole\ShopConsole.Core\bin\Debug\net6.0\ShopConsole.Core.dll
+C:\Users\abbascb\source\repos\ShopConsole\ShopConsole.Core\bin\Debug\net6.0\ShopConsole.Core.pdb
+C:\Users\abbascb\source\repos\ShopConsole\ShopConsole.Core\obj\Debug\net6.0\ShopConsole.Core.csproj.AssemblyReference.cache
+C:\Users\abbascb\source\repos\ShopConsole\ShopConsole.Core\obj\Debug\net6.0\ShopConsole.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abbascb\source\repos\ShopConsole\ShopConsole.Core\obj\Debug\net6.0\ShopConsole.Core.AssemblyInfoInputs.cache
+C:\Users\abbascb\source\repos\ShopConsole\ShopConsole.Core\obj\Debug\net6.0\ShopConsole.Core.AssemblyInfo.cs
+C:\Users\abbascb\source\repos\ShopConsole\ShopConsole.Core\obj\Debug\net6.0\ShopConsole.Core.csproj.CoreCompileInputs.cache
+C:\Users\abbascb\source\repos\ShopConsole\ShopConsole.Core\obj\Debug\net6.0\ShopConsole.Core.dll
+C:\Users\abbascb\source\repos\ShopConsole\ShopConsole.Core\obj\Debug\net6.0\refint\ShopConsole.Core.dll
+C:\Users\abbascb\source\repos\ShopConsole\ShopConsole.Core\obj\Debug\net6.0\ShopConsole.Core.pdb
+C:\Users\abbascb\source\repos\ShopConsole\ShopConsole.Core\obj\Debug\net6.0\ref\ShopConsole.Core.dll

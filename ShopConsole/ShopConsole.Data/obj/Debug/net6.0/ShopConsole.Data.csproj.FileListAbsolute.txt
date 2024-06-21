@@ -1,0 +1,15 @@
+C:\Users\abbascb\source\repos\ShopConsole\ShopConsole.Data\bin\Debug\net6.0\ShopConsole.Data.deps.json
+C:\Users\abbascb\source\repos\ShopConsole\ShopConsole.Data\bin\Debug\net6.0\ShopConsole.Data.dll
+C:\Users\abbascb\source\repos\ShopConsole\ShopConsole.Data\bin\Debug\net6.0\ShopConsole.Data.pdb
+C:\Users\abbascb\source\repos\ShopConsole\ShopConsole.Data\bin\Debug\net6.0\ShopConsole.Core.dll
+C:\Users\abbascb\source\repos\ShopConsole\ShopConsole.Data\bin\Debug\net6.0\ShopConsole.Core.pdb
+C:\Users\abbascb\source\repos\ShopConsole\ShopConsole.Data\obj\Debug\net6.0\ShopConsole.Data.csproj.AssemblyReference.cache
+C:\Users\abbascb\source\repos\ShopConsole\ShopConsole.Data\obj\Debug\net6.0\ShopConsole.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abbascb\source\repos\ShopConsole\ShopConsole.Data\obj\Debug\net6.0\ShopConsole.Data.AssemblyInfoInputs.cache
+C:\Users\abbascb\source\repos\ShopConsole\ShopConsole.Data\obj\Debug\net6.0\ShopConsole.Data.AssemblyInfo.cs
+C:\Users\abbascb\source\repos\ShopConsole\ShopConsole.Data\obj\Debug\net6.0\ShopConsole.Data.csproj.CoreCompileInputs.cache
+C:\Users\abbascb\source\repos\ShopConsole\ShopConsole.Data\obj\Debug\net6.0\ShopConsole.Data.csproj.CopyComplete
+C:\Users\abbascb\source\repos\ShopConsole\ShopConsole.Data\obj\Debug\net6.0\ShopConsole.Data.dll
+C:\Users\abbascb\source\repos\ShopConsole\ShopConsole.Data\obj\Debug\net6.0\refint\ShopConsole.Data.dll
+C:\Users\abbascb\source\repos\ShopConsole\ShopConsole.Data\obj\Debug\net6.0\ShopConsole.Data.pdb
+C:\Users\abbascb\source\repos\ShopConsole\ShopConsole.Data\obj\Debug\net6.0\ref\ShopConsole.Data.dll
